@@ -1,0 +1,49 @@
+# OS and Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# C/C++ Build
+build/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+
+# FPGA Tool Output
+CMakeCache.txt
+CMakeFiles/
+*.bit
+*.bin
+*.dcp
+*.sof
+*.pof
+*.rbf
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Simulation
+db/
+incremental_db/
+output_files/
+*.jou
+*.log
+*.vcd
+*.fst
+*.vvp
+*.wlf
+xsim.dir/
+obj_dir/

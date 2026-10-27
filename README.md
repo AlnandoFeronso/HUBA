@@ -7,5 +7,13 @@
 <p align="center"><em>more details soon...</em></p>
 <p>&nbsp;</p>
 
+## Autorzy
+
+- Wiktor Ludwichowski (Kierownik)
+- Paweł Leczkowski
+- Emilia Łukasiuk
+- Alicja Macutkiewicz
+- Weronika Marszalik
+
 ---
 <p align="center"><sub><strong>HUBA</strong> &middot; Licensed under the Apache License 2.0 &middot; see the <code>LICENSE</code> file in the repository root</sub></p>

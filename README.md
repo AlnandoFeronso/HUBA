@@ -7,6 +7,8 @@
 <p align="center"><em>more details soon...</em></p>
 <p>&nbsp;</p>
 
+![PIWO](run.gif)
+
 ## Autorzy
 
 - Wiktor Ludwichowski (Kierownik)
